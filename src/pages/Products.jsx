@@ -14,7 +14,7 @@ const ProductsPage = () => {
       <HeroSection 
         title="Produk Kami" 
         subtitle="Kualitas Kayu Terbaik untuk Kebutuhan Anda"
-        bgImage="src/assets/gambarflooring.png"
+        bgImage="/assets/gambarflooring.png"
       />
       
       {/* Product Categories */}

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const HeroBanner = () => {
   return (
-    <section className="relative h-[70vh] min-h-[500px] bg-[url('public/assets/gambar1.png')] bg-cover bg-center flex items-center">
+    <section className="relative h-[70vh] min-h-[500px] bg-[url('/assets/gambar1.png')] bg-cover bg-center flex items-center">
       <div className="absolute inset-0 bg-black/40"></div>
       <div className="container mx-auto px-4 relative z-10 text-center md:text-left">
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4 leading-tight">
