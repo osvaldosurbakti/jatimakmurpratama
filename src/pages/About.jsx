@@ -13,7 +13,7 @@ const AboutPage = () => {
       <HeroSection 
         title="About Us" 
         subtitle="Crafting Quality Since 2023"
-        bgImage="src/assets/gambar2.png"
+        bgImage="/assets/gambar2.png"
       />
       
       {/* Company Overview */}

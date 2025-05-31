@@ -7,7 +7,7 @@ const AboutShort = () => {
       <div className="container mx-auto px-4 flex flex-col lg:flex-row items-center">
         <div className="lg:w-1/2 mb-8 lg:mb-0 lg:pr-8">
           <img 
-            src="src/assets/gambar3.png" 
+            src="/assets/gambar3.png" 
             alt="Wood Workshop" 
             className="rounded-lg shadow-xl w-full h-auto max-h-[400px] object-cover" 
           />

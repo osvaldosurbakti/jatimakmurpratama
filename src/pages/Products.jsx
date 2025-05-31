@@ -25,19 +25,19 @@ const ProductsPage = () => {
             name: "Flooring",
             description: "Lantai kayu berkualitas dengan ketebalan 1.8cm",
             icon: "🪵",
-            image: "src/assets/gambarflooring.png"
+            image: "/assets/gambarflooring.png"
           },
           {
             name: "Decking",
             description: "Deck outdoor tahan cuaca lebar 9cm & 14cm",
             icon: "🌳",
-            image: "src/assets/gambardecking.png"
+            image: "/assets/gambardecking.png"
           },
           {
             name: "Custom",
             description: "Produk khusus sesuai kebutuhan proyek Anda",
             icon: "✂️",
-            image: "src/assets/gambarcustom.png"
+            image: "/assets/gambarcustom.png"
           }
         ]}
       />

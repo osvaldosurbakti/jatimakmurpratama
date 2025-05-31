@@ -5,19 +5,19 @@ const products = [
   {
     name: "Teak Flooring",
     desc: "18mm thickness, various widths (9/12/14cm)",
-    img: "src/assets/gambarflooring.png",
+    img: "/assets/gambarflooring.png",
     link: "/products/flooring"
   },
   {
     name: "Teak Decking",
     desc: "14cm width, perfect for outdoor applications",
-    img: "src/assets/gambardecking.png",
+    img: "/assets/gambardecking.png",
     link: "/products/decking"
   },
   {
     name: "Custom Products",
     desc: "Hand rails, door frames, and special orders",
-    img: "src/assets/gambarcustom.png",
+    img: "/assets/gambarcustom.png",
     link: "/products/custom"
   }
 ];
